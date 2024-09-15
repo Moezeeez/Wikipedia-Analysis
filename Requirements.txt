@@ -1,7 +1,7 @@
-beautifulsoup4            4.12.3
-keras                     3.5.0
-numpy                     1.26.4
-pandas                    2.2.2
-seaborn                   0.13.2
-matplotlib                3.9.2
-mwparserfromhell          0.6.6
+beautifulsoup4==4.12.3
+keras==3.5.0
+numpy==1.26.4
+pandas==2.2.2
+seaborn==0.13.2
+matplotlib==3.9.2
+mwparserfromhell==0.6.6
